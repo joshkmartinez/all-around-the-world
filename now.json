@@ -1,0 +1,9 @@
+{
+  "name": "All Around The World",
+  "alias": ["allaroundtheworld", "lala", "lalala"],
+  "version": 2,
+  "builds": [{ "src": "index.js", "use": "@now/node" }],
+  "github": {
+    "silent": true
+  }
+}
